@@ -1,0 +1,682 @@
+.pine-logo {
+  position: absolute;
+  top: 30px;
+  left: 117px;
+  width: 101px;
+  height: 35px;
+  left: 150px;
+}
+.background {
+  width: 100vw;
+  display: block;
+}
+.first {
+  font-weight: 600;
+  font-size: 30px;
+  position: absolute;
+  top: 30px;
+  width: 100px;
+  height: 22px;
+  background-color: transparent;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.second {
+  position: absolute;
+  top: 20px;
+  width: 430px;
+  height: 580px;
+  background-color: #1f72aa75;
+  border-radius: 40px;
+}
+.third {
+  position: absolute;
+  top: 50px;
+  width: 430px;
+  height: 580px;
+  background-color: #29728b40;
+  border-radius: 40px;
+}
+.four {
+  position: absolute;
+  top: 30px;
+  width: 450px;
+  height: 590px;
+  opacity: 1;
+  border-radius: 40px;
+}
+.five {
+  position: absolute;
+  font-size: 65px;
+  color: white;
+  top: 220px;
+  width: 450px;
+  height: 590px;
+  background-color: transparent;
+  border-radius: 40px;
+  text-shadow: #d3dae2b8 0px 0px 10px;
+  font-family: "Bebas Neue", sans-serif;
+  text-align: center;
+}
+
+.four1 {
+  position: absolute;
+  top: 30px;
+  left: 100px;
+  width: 450px;
+  height: 590px;
+  display: block;
+  border-radius: 40px;
+  opacity: 0.35;
+}
+.four2 {
+  position: absolute;
+  top: 30px;
+  left: 630px;
+  width: 450px;
+  height: 590px;
+  display: block;
+  border-radius: 40px;
+  opacity: 0.35;
+}
+.four3 {
+  position: absolute;
+  top: 30px;
+  left: 1160px;
+  width: 450px;
+  height: 590px;
+  display: block;
+  border-radius: 40px;
+  opacity: 0.35;
+}
+.four4 {
+  position: absolute;
+  top: 30px;
+  left: 1690px;
+  width: 450px;
+  height: 590px;
+  display: block;
+  border-radius: 40px;
+  opacity: 0.35;
+}
+.four2:hover {
+  position: absolute;
+  display: block;
+  background-color: black;
+  border-radius: 40px;
+  opacity: 0.35;
+}
+.four3:hover {
+  position: absolute;
+  display: block;
+  background-color: black;
+  border-radius: 40px;
+  opacity: 0.35;
+}
+.four4:hover {
+  position: absolute;
+  display: block;
+  background-color: black;
+  border-radius: 40px;
+  opacity: 0.35;
+}
+.four1:hover {
+  position: absolute;
+  display: block;
+  background-color: black;
+  opacity: 0.35;
+}
+
+.six {
+  position: absolute;
+  font-size: 38px;
+  color: black;
+  top: 0px;
+  left: 40px;
+}
+.seven {
+  position: absolute;
+  font-size: 16px;
+  color: black;
+  top: 65px;
+  left: 105px;
+}
+.eight {
+  position: absolute;
+  top: 80px;
+  left: 70px;
+  width: 20px;
+  height: 20px;
+}
+.nine {
+  position: absolute;
+  left: 240px;
+  width: 750px;
+  height: 140px;
+  border-radius: 100px;
+  border: 5px solid transparent;
+}
+.nine:hover {
+  border: 5px solid white;
+}
+.ten {
+  position: absolute;
+  font-size: 20px;
+  background-color: white;
+  color: black;
+  left: 870px;
+  width: 80px;
+  height: 80px;
+  border-radius: 100px;
+  border: none;
+}
+.w-1 {
+  position: absolute;
+  top: 50px;
+  left: 40px;
+  width: 70px;
+  height: 70px;
+}
+.r-1 {
+  position: absolute;
+  top: 35px;
+  left: 150px;
+  font-size: 30px;
+  color: black;
+}
+.t-1 {
+  position: absolute;
+  top: 250px;
+  left: 40px;
+  font-size: 25px;
+  color: gray;
+}
+
+.y-1 {
+  position: absolute;
+  top: 285px;
+  left: 80px;
+  font-size: 30px;
+  color: black;
+}
+
+.d-1 {
+  position: absolute;
+  top: 355px;
+  left: 70px;
+  font-size: 20px;
+  color: black;
+}
+
+.f-1 {
+  position: absolute;
+  top: 410px;
+  left: 70px;
+  font-size: 20px;
+  color: black;
+}
+
+.z-1 {
+  position: absolute;
+  top: 465px;
+  left: 70px;
+  font-size: 20px;
+  color: black;
+}
+
+.x-1 {
+  position: absolute;
+  top: 520px;
+  left: 70px;
+  font-size: 20px;
+  color: black;
+}
+
+.kk {
+  position: absolute;
+  top: 130px;
+  left: 40px;
+  font-size: 60px;
+  color: black;
+}
+.leftss {
+  left: 40px;
+}
+.sas {
+  color: black;
+  position: absolute;
+  font-size: 35px;
+  font-style: normal;
+  top: 18px;
+  left: 160px;
+}
+.vw-40 {
+  left: 40vw;
+}
+.vw-40:hover {
+  color: black;
+}
+.vw46 {
+  left: 46vw;
+}
+.vw46:hover {
+  color: black;
+}
+
+.vw52 {
+  left: 52vw;
+}
+.vw52:hover {
+  color: black;
+}
+.profile {
+  position: absolute;
+  left: 60vw;
+  width: 35px;
+  height: 27px;
+  top: 35px;
+  font-weight: 600;
+  background-color: transparent;
+  color: white;
+  border-radius: 100px;
+}
+.profile:hover {
+  background-color: black;
+}
+.EN {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  top: 25px;
+  left: 2150px;
+  background-color: white;
+  cursor: pointer;
+  color: black;
+  border-radius: 24px;
+  border: none;
+}
+.EN:hover {
+  background-color: black;
+  color: white;
+}
+.pure-magic {
+  position: absolute;
+  font-family: "Bebas Neue", sans-serif;
+  color: #e8edf2b8;
+  top: 8vw;
+  left: 41vw;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 120px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: bottom;
+  text-transform: uppercase;
+}
+.awaits {
+  position: absolute;
+  color: #fdfdfefa;
+  font-family: "Bebas Neue", sans-serif;
+  top: 0px;
+  left: 640px;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 400px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: bottom;
+}
+.q2024 {
+  position: absolute;
+  font-family: "Bebas Neue", sans-serif;
+  color: #ffffffcc;
+  font-family: Hanuman;
+  font-weight: bold;
+  font-style: Black;
+  font-size: 85px;
+  text-align: center;
+  left: 1000px;
+  bottom: 200px;
+}
+.left85 {
+  left: 85px;
+}
+.left140 {
+  left: 130px;
+}
+.left1150 {
+  left: 1150px;
+}
+.left1190 {
+  left: 1190px;
+}
+.left1680 {
+  left: 1680px;
+}
+.left1720 {
+  left: 1720px;
+}
+.left620 {
+  left: 620px;
+}
+.left660 {
+  left: 660px;
+}
+.left100 {
+  left: 100px;
+}
+.left630 {
+  left: 630px;
+}
+.left1160 {
+  left: 1160px;
+}
+.left1690 {
+  left: 1690px;
+}
+.left165 {
+  left: 165px;
+}
+.left670 {
+  left: 670px;
+}
+.left1210 {
+  left: 1210px;
+}
+.left1730 {
+  left: 1730px;
+}
+.destinatiom {
+  position: absolute;
+  font-size: 85px;
+  color: black;
+  top: 2200px;
+  left: 710px;
+  width: 1442px;
+  height: 85px;
+  background-color: transparent;
+  border-radius: 40px;
+}
+.pack {
+  position: absolute;
+  font-size: 35px;
+  color: black;
+  top: 2300px;
+  left: 920px;
+  width: 1442px;
+  height: 85px;
+  font-style: italic;
+}
+.idk {
+  background-color: #eee9d9;
+  top: 2400px;
+}
+.idk1 {
+  background: #8bb8c1cc;
+  top: 2600px;
+}
+.idk3 {
+  background: #8bc0bdcc;
+  top: 3000px;
+}
+.idk2 {
+  background: #aad8d7cc;
+  top: 2800px;
+}
+.idk4 {
+  background: #97cce0cc;
+  top: 3200px;
+}
+.top2430 {
+  top: 2430px;
+}
+.pin1 {
+  top: 2480px;
+  left: 1430px;
+}
+.pin2 {
+  top: 2650px;
+  left: 1150px;
+}
+.pin3 {
+  top: 2700px;
+  left: 1820px;
+}
+.pin4 {
+  top: 3100px;
+  left: 1500px;
+}
+.pricing {
+  position: absolute;
+  top: 3600px;
+  left: 800px;
+  font-size: 75px;
+  width: 1440px;
+  height: 85px;
+  background-color: transparent;
+  font-style: regular;
+  color: black;
+}
+.choose {
+  position: absolute;
+  font-size: 35px;
+  top: 3700px;
+  left: 850px;
+  width: 1440px;
+  height: 85px;
+  background-color: transparent;
+  font-style: regular;
+  color: gray;
+}
+.left200 {
+  left: 200px;
+}
+.correct {
+  position: absolute;
+  left: 40px;
+  width: 25px;
+  height: 25px;
+}
+.top375 {
+  top: 375px;
+}
+.top430 {
+  top: 430px;
+}
+.top485 {
+  top: 485px;
+}
+.top540 {
+  top: 540px;
+}
+.left240 {
+  left: 240px;
+}
+.left800 {
+  left: 800px;
+}
+.left840 {
+  left: 840px;
+}
+.left1400 {
+  left: 1400px;
+}
+.left1440 {
+  left: 1440px;
+}
+.ff {
+  position: absolute;
+  top: 5100px;
+  left: 200px;
+  width: 300px;
+  height: 80px;
+  background-color: white;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+}
+.fg {
+  position: absolute;
+  top: 18px;
+  left: 33px;
+  width: 40px;
+  height: 40px;
+}
+.fh {
+  color: #6972b5;
+  font-size: 35px;
+  font-style: bold;
+  font-family: "Arial", sans-serif;
+  position: absolute;
+  top: -15px;
+  left: 100px;
+}
+.ii {
+  position: absolute;
+  top: 5100px;
+  left: 600px;
+  width: 300px;
+  height: 80px;
+  background-color: white;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+}
+.io {
+  position: absolute;
+  top: 5085px;
+  left: 700px;
+  color: #6972b5;
+  font-size: 35px;
+  font-style: normal;
+  font-family: "Arial", sans-serif;
+}
+.iu {
+  position: absolute;
+  top: 5120px;
+  left: 635px;
+  width: 40px;
+  height: 40px;
+}
+.top2630 {
+  top: 2630px;
+}
+.top2830 {
+  top: 2830px;
+}
+.top3030 {
+  top: 3030px;
+}
+.top3230 {
+  top: 3230px;
+}
+.a-pin {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+}
+.popular {
+  position: absolute;
+  top: 4160px;
+  left: 1180px;
+  font-size: 30px;
+  height: 50px;
+  width: 150px;
+  background-color: #6972b5;
+  cursor: pointer;
+  border-radius: 50px;
+  border: none;
+  color: white;
+}
+.pp {
+  margin-left: 718px;
+  margin-top: -244px;
+  height: 400px;
+  width: 400px;
+  display: none;
+}
+.nine:hover .pp {
+  display: block;
+}
+.amr {
+  margin-left: 1003.5px;
+  margin-top: -260.6px;
+  height: 400px;
+  width: 400px;
+  display: none;
+}
+.smr {
+  margin-left: 1368px;
+  margin-top: -287px;
+  height: 400px;
+  width: 400px;
+  display: none;
+}
+.pmr {
+  margin-left: 773px;
+  margin-top: -550px;
+  height: 400px;
+  width: 400px;
+  display: none;
+}
+.dmr {
+  height: 400px;
+  width: 400px;
+  margin-top: -500px;
+  margin-left: 800px;
+  display: none;
+}
+.nine:hover .amr {
+  display: block;
+}
+
+.nine:hover .smr {
+  display: block;
+}
+
+.nine:hover .pmr {
+  display: block;
+}
+.nine:hover .dmr {
+  display: block;
+}
+.q11 {
+  top: 1300px;
+  width: 2240px;
+  height: 610px;
+  background-color: transparent;
+  position: absolute;
+}
+.q-1 {
+  position: absolute;
+  top: 3900px;
+  width: 580px;
+  height: 800px;
+  background-color: white;
+  border: black;
+  cursor: pointer;
+  border-radius: 70px;
+}
+.q-1:hover {
+  box-shadow: -10px -10px rgb(120, 116, 116), 10px 10px rgb(212, 212, 212);
+}
+.ss {
+  position: absolute;
+  top: 650px;
+  width: 500px;
+  height: 75px;
+  background: #a4d1e2;
+  border: none;
+  cursor: pointer;
+  border-radius: 100px;
+}
+.q-1:hover .ss {
+  background-color: black;
+  color: white;
+}
+.q-1:hover .sas {
+  color: white;
+}
